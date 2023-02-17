@@ -3,49 +3,52 @@ Travel itenary template for ChatGPT assisted travel planning
 
 Copy, and fill out this, and then send it to ChatGPT:
 ```
-Ignore lines starting with #
+Create a detailed and informative itenary, which is clear and organized. Use a day-by-day format, where each day has a header with the day counter, date, and a short summary. Define each day's activities in detail, and add italicized historical information. Highlight places and activities with bold text. Add transport, and accomondation recomondations.
+
+Other rules: 
+- use only public transport and apps like Uber
 
 Create a travel itenary, based on the following:
-Start date: [START-DATE]
-End date: [END-DATE]
-Travel method: [CAR/AIR/ETC]
-Destination: [COUNTRY/AREA/ETC]
-Entry point: [COUNTRY/AREA/ETC]
-Travel buget: [LOW/MEDIUM/HIGH]
+Start date: 2023.10.21 21:00
+End date: 2023.11.04 10:00
+Travel method: Air
+Destination: Mexico
+Entry point: Mexico City
+Travel buget: Medium
 
 Things I want to see/experience: 
-- [LIST OF STUFF EXAMPLES: -Snorkeling, - Hiking ETC.]
+- Experience local culture
 
-#FOOD/DRINK#
 Foods/drinks I want to try(give place recomendations):
-- [FOOD/DRINK EXAMPLE: - Pad Thai, - Tequila]
-#FOOD/DRINK#
+ - Tacos
+ - Tequila
 
-#ADDITIONAL TRAVELS INSIDE AREA/COUNTRY#
 Additional traveling:
-- [EXAMPLE: A to B by car on date]
-#ADDITIONAL TRAVELS INSIDE AREA/COUNTRY#
+- Mexico City to Cancun by air on 2023.10.25
+- Cancun to Oaxaca by air on 2023.10.31
+- Oaxaca to Mexico City on 2023.11.03
 
-#RULES#
-- add historical context and background information with italicized text
-- highlight important places and activities with bold text
-- add transport recomendations
-- use only public transport and apps like Uber
-#RULES#
+In Mexico City i want to see/experience the followings: 
+- Lucha Libre
+- National Museum of Anthropology
+- Teotihuacan 
+- Eat taco
+- Mariachi
+- Food and street markets
+- Street art
+In Cancun i want to see/experience the followings: 
+- Stay at Tulum
+- Swim in Cenotes and Visit Chichen Itza
+- Swim with turtles and stingray
+- Jungle
+- Ruins
+- Nice beaches
+- Relax
+In Oaxaca i want to see/experience the followings: 
+- Day of the Dead
+- Hike
+- See the best things in Oaxaca
 
-#STYLING#
-Follow these style guides:
-- detailed and informative
-- clear and organized
-- day-by-day format
-- each day's activities clearly defined and described in detail
-#STYLING#
-
-#DETAILS#
-[EXAMPLE: In A i want to see the followings: -Eifel tower, - Have a coffe and a croissant]
-#DETAILS#
-
-#EXTRA#
 At the end of the itenary, include the followings:
 - Emergency and important phone numbers
 - Dangerous areas on my destinations
@@ -54,5 +57,6 @@ At the end of the itenary, include the followings:
 - Information about the local gastronomy
 - Local customs, rules to be aware of
 - Any extra tips to have a great holiday
-#EXTRA#
+- Short summary from the places not made it to the itenary, but could
+
 ```
