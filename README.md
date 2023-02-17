@@ -2,7 +2,7 @@
 Travel itenary template for ChatGPT assisted travel planning
 
 Copy, and fill out this, and then send it to ChatGPT:
-
+```
 Ignore lines starting with #
 
 Create a travel itenary, based on the following:
@@ -55,3 +55,4 @@ At the end of the itenary, include the followings:
 - Local customs, rules to be aware of
 - Any extra tips to have a great holiday
 #EXTRA#
+```
