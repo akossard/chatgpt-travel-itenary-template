@@ -3,7 +3,10 @@ Travel itenary template for ChatGPT assisted travel planning
 
 Copy, and fill out this, and then send it to ChatGPT:
 ```
-Create a detailed and informative itenary, which is clear and organized. Use a day-by-day format, where each day has a header with the day counter, date, and a short summary. Define each day's activities in detail, and add italicized historical information. Highlight places and activities with bold text. Add transport, and accomondation recomondations.
+Create a detailed and informative itenary, which is clear and organized. 
+Use a day-by-day format, where each day has a header with the day counter, date, and a short summary. 
+Define each day's activities in detail, and add italicized historical information. 
+Highlight places and activities with bold text. Add transport, and accomondation recomondations.
 
 Other rules: 
 - use only public transport and apps like Uber
