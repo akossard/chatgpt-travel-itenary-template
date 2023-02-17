@@ -3,6 +3,8 @@ Travel itenary template for ChatGPT assisted travel planning
 
 Copy, and fill out this, and then send it to ChatGPT:
 ```
+(When you provide a response, either text or a snippet of code, and the text is very long (exceeds 500 characters), I want you to write “Part #n” where n is the part number of the first chunk of text, or the first part of the code snippet or example, then you must end the request there by stating: “The answer to your request is too long;  Do you want me to split the response?”, and keep asking for n amount of parts if it’s a general text. If it’s a code snippet you must say: “The code snippet or code example is too long, so you want me to continue showing the code?” If the user responds with “yes”, you must continue sending the previous responses or chunks of the answer or parts of the code, as if this was a new request.)
+
 Create a detailed and informative itenary, which is clear and organized. 
 Use a day-by-day format, where each day has a header with the day counter, date, and a short summary. 
 Define each day's activities in detail, and add italicized historical information. 
